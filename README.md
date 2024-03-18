@@ -1,6 +1,6 @@
 ## Uso de la API de Rick & Morty
 
-![Logo]('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rick_and_Morty.svg/1280px-Rick_and_Morty.svg.png')
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rick_and_Morty.svg/1280px-Rick_and_Morty.svg.png)
 
 Este repositorio utiliza la API de Rick and Morty para obtener datos de personajes y crear un DataFrame con sus características. El notebook rickandmorty.ipynb realiza solicitudes HTTP a la API y procesa los datos recibidos para generar un DataFrame de Pandas con información detallada sobre los personajes. Este DataFrame es posteriormente procesado para proporcionar un correcto análisis de los datos.
 
