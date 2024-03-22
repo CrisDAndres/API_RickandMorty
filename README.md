@@ -2,7 +2,7 @@
 
 [![image](https://github.com/CrisDAndres/API_RickandMorty/assets/132938003/f968c045-f784-4378-8afe-7d7a1f2a7e22)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffamilyguyfanon.fandom.com%2Fwiki%2FRick_and_Morty&psig=AOvVaw1LLugv1mt2_Aq2pSIO35WT&ust=1711205325282000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiWx-OOiIUDFQAAAAAdAAAAABAJ)
 
-![Logo R&M](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rick_and_Morty.svg/1280px-Rick_and_Morty.svg.png)
+Fuente de la imagen: https://familyguyfanon.fandom.com
 
 Este repositorio utiliza la API de Rick and Morty para obtener datos de personajes y crear un DataFrame con sus características. El notebook ``rickandmorty.ipynb`` realiza solicitudes HTTP a la API y procesa los datos recibidos para generar un DataFrame de Pandas con información detallada sobre los personajes. Este DataFrame es posteriormente procesado para proporcionar un correcto análisis de los datos.
 
